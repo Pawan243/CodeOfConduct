@@ -12,7 +12,7 @@ Presentations or similar events should not be stopped for one-time gaffes or min
 
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance, and want you to feel comfortable, safe, and supported.
 
-- To report any form of harassment or to seek immediate help, contact any of the Node.dc organizers present:
+- To report any form of harassment or to seek immediate help, contact any of the Django-district organizers present:
 
   - [Andrew T. Baker](http://www.meetup.com/django-district/members/43552892/) at andrew.tork.baker@gmail.com, (703) 623-0231.
   - [Chad Shryock](http://www.meetup.com/django-district/members/21225691/) at gen3rd@gmail.com.
